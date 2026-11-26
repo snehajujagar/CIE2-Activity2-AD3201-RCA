@@ -28,6 +28,7 @@ The main objective is to analyze student data, perform data preprocessing, build
 ## 3. Dataset Description
 
 **Dataset Name:** Indian Engineering Placement Dataset 2026
+Dataset link : https://www.kaggle.com/datasets/vishwajeetchandole/indian-engineering-placement-dataset-2026?resource=download
 
 **Dataset File:** `indian_engineering_placement_2026.csv`
 
